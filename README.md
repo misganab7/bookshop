@@ -1,2 +1,2 @@
 # bookshop
-this is a html, css and js project of a book store 
+This is a Bookshop project made with HTML, CSS, JS and PHP using mysql as database.
